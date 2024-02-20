@@ -7,5 +7,6 @@
 	"id": "techstudent10.hide_locks",
 	"name": "Hide Locks",
 	"developer": "TechStudent10",
-	"description": "Hides the locks in the Icon Kit"
+	"description": "Hides the locks in the Icon Kit",
+	"repository": "https://github.com/TechStudent10/HideLocks"
 }
