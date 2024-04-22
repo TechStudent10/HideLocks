@@ -3,7 +3,8 @@
 	"version": "v1.0.1",
 	"gd": {
 		"win": "2.204",
-		"android": "2.205"
+		"android": "2.205",
+  "iOS": "2.205"
 	},
 	"id": "techstudent10.hide_locks",
 	"name": "Hide Locks",
