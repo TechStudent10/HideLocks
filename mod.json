@@ -1,10 +1,12 @@
 {
-	"geode": "2.0.0-beta.12",
-	"version": "v1.0.1",
-	"gd": {
-		"win": "2.204",
-		"android": "2.205"
-	},
+	"geode": "3.4.0",
+	"version": "v1.2.0",
+        "gd": {
+            "win": "2.206",
+            "android": "2.206",
+            "mac": "2.206",
+            "ios": "2.206"
+        },
 	"id": "techstudent10.hide_locks",
 	"name": "Hide Locks",
 	"developer": "TechStudent10",
