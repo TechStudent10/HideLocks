@@ -64,7 +64,7 @@ jobs:
       - uses: hiimjustin000/release-geode-mod@main
         with:
           # The GitHub token to use for the release.
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           # The path to the mod's directory. Defaults to the current directory.
           path: ./
           # The repository to release the mod to. Defaults to the current repository.
