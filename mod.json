@@ -1,15 +1,17 @@
 {
-	"geode": "3.4.0",
-	"version": "v1.3.0",
+	"geode": "4.0.0-alpha.1",
+	"version": "v1.4.0",
         "gd": {
-            "win": "2.206",
-            "android": "2.206",
-            "mac": "2.206",
-            "ios": "2.206"
+            "win": "2.2074",
+            "android": "2.2074",
+            "mac": "2.2074",
+            "ios": "2.2074"
         },
 	"id": "techstudent10.hide_locks",
 	"name": "Hide Locks",
 	"developer": "TechStudent10",
 	"description": "Hides the locks in the Icon Kit",
-	"repository": "https://github.com/TechStudent10/HideLocks"
+	"links": {
+		"source": "https://github.com/TechStudent10/HideLocks"
+	}
 }
