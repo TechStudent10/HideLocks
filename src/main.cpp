@@ -7,8 +7,7 @@ class $modify(GJItemIcon) {
 	void changeToLockedState(float p0) {
 		GJItemIcon::changeToLockedState(p0);
 
-		CCObject* currentChild;
-		CCARRAY_FOREACH(getChildren(), currentChild) {
+		for (auto currentChild : CCArrayExt(getChildren())) {
 			auto sprite = reinterpret_cast<CCSprite*>(currentChild);
 			if (sprite->getZOrder() == 10) {
 				sprite->setVisible(false);
